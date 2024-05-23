@@ -26,6 +26,7 @@ body {
 .fa__twitter--modifier {
     background: #55ACEE;
     color: white;
+    border-radius: 5px;
 }
 .fa__pinterest--modifier {
     background: #cb2027;
