@@ -4,6 +4,7 @@ body {
 .navbar__link--modifier {
     color: white;
     margin-right: 2em;
+    transition: color 0.3s; 
 }
 .navbar__link--modifier:hover {
     color: #42413c;
