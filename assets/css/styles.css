@@ -1,0 +1,55 @@
+body {
+    font-family: system-ui;
+}
+.navbar__link--modifier {
+    color: white;
+    margin-right: 2em;
+}
+.navbar__link--modifier:hover {
+    color: #42413c;
+}
+.navbar--modifier {
+    background-color: #fc5c22 !important;
+}
+.navbar__brand--modifier {
+    position: absolute;
+    left: 10em;
+    bottom: 0.5em;
+}
+.tr__even--modifier {
+    background-color: #74f853;
+}
+.tr__odd--modifier {
+    background-color: #f8ec46;
+}  
+.fa__twitter--modifier {
+    background: #55ACEE;
+    color: white;
+}
+.fa__pinterest--modifier {
+    background: #cb2027;
+    color: white;
+}
+.fa__tumblr--modifier {
+    background: #2c4762;
+    color: white;
+}
+.fa__reddit--modifier {
+    background: #ff5700;
+    color: white;
+}
+.fa__envelope--modifier {
+    background: #8d8c8c;
+    color: white;
+}
+.footer__link--mofifier {
+    margin-right: 1em;
+}
+
+.container-detalle__container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
